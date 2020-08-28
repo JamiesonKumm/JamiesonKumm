@@ -19,5 +19,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://JamiesonKumm.github.io/my-app"
+  "homepage": "http://JamiesonKumm.github.io/JamiesonKumm"
 }
